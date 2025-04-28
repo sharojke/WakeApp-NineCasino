@@ -6,14 +6,7 @@
 <br />
 <div align="center">
   <img title="App Icon" src="/Resources/Images/app-icon.JPG" alt="Logo" height="200">
-  
   <h3 align="center">Nine Casino</h3>
-  
-  <p align="center">
-    <em>
-      A mobile version of a gambling site that is popular in Canada
-    </em>
-  </p>
 </div>
 
 
