@@ -5,7 +5,7 @@
 
 <br />
 <div align="center">
-  <img title="App Icon" src="/Resources/Images/app-icon.JPG" alt="Logo" height="200">
+  <img title="App Icon" src="/Resources/Images/app-icon.JPG" alt="Logo" height="200" width="355">
   <h3 align="center">Nine Casino</h3>
 </div>
 
@@ -56,6 +56,23 @@ This casino already had a working web version at the time of the creation of the
 
 [WakeApp](https://www.wakeapp.com/) is a technological advanced mobile marketing agency, leader in the promotion of mobile applications on the international market.  
 Until March 2022, this company had a department for the development of iOS applications; unfortunately, the department was closed, employees were fired.
+
+Other projects of the company I've worked on:
+- <p align="left">
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/WakeApp/WakeApp-ScannerExpress.png" height="35" width="35"/>
+    <a href="https://github.com/sharojke/WakeApp-ScannerExpress"> Scanner Express</a>
+    <a>is an application for scanning, editing and storing documents of various types.</a>
+  </p>
+- <p align="left">
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/WakeApp/WakeApp-Themly.png" height="35" width="35"/>
+    <a href="https://github.com/sharojke/WakeApp-Themly"> Themly</a>
+    <a>is an application that helps people decorate their phone with Widgets, Icons and Wallpapers.</a>
+  </p>
+- <p align="left">
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/WakeApp/WakeApp-Notica.png" height="35" width="35"/>
+    <a href="https://github.com/sharojke/WakeApp-Notica"> Notica</a>
+    <a>is an application for creating daily notes.</a>
+  </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
